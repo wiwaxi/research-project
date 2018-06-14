@@ -14,5 +14,5 @@ The presentation will open in any internet-browser, though Chrome/Mozilla are pr
 Use the following keys to switch display modes:
 * ``'f'`` enable fullscreen mode
 * ``'ctrl'``+``'-'``/``'+'`` adjust scale
-* ``'w'`` toggle widescreen mode
+* ``'w'`` toggle wide-/narrow-screen mode
 
